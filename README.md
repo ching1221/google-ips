@@ -2,7 +2,7 @@
 ## For windows user:
 
 your path is at C:\WINDOWS\system32\drivers\etc
-copy the content and paste to your hosts file.
+copy the content and paste to your hosts file (just add, not cover).
 
 ## For Unix user:
 
